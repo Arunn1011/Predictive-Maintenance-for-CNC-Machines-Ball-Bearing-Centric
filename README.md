@@ -1,0 +1,1 @@
+# Predictive-Maintenance-for-CNC-Machines-Ball-Bearing-Centric
